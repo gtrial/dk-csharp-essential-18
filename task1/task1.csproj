@@ -5,4 +5,10 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Reference Include="task03, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\dk-csharp-essential-15\task03\bin\Debug\netcoreapp3.1\task03.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>
